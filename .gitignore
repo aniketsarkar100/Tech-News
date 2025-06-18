@@ -1,0 +1,10 @@
+# Node modules (both frontend & backend)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build folder (optional, if using GitHub Pages for deployment)
+client/build/
+
+# Environment variables
+*.env
